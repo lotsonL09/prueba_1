@@ -18,7 +18,7 @@ Algoritmo de encriptacion de Karaca:
 #hola: aloh---1l4h
 #william: mailliw--m13ll3w
 
-import re
+#que esta pasando XD
 
 vocals=["a","e","i","o","u"]
 numbers=[]
