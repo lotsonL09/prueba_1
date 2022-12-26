@@ -18,8 +18,6 @@ Algoritmo de encriptacion de Karaca:
 #hola: aloh---1l4h
 #william: mailliw--m13ll3w
 
-#que esta pasando XD
-
 vocals=["a","e","i","o","u"]
 numbers=[]
 word=input("Ingresa la palabra: ")
